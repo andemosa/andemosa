@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+#left{
+    background: #05B993 url("https://devcareer.io/images/bg.svg") right;
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#photo{
+    height: 250px;
+}
+#mobile{
+    display: none;
+}
+img{
+    width: auto;
+    height: 100%;
+    border: 5px #FFFFFF solid;
+    margin: 5em auto 2em;
+}
+#left a{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #FFFFFF !important;
+    color: #222 !important;
+    border-radius: 2px;
+    width: 310px;
+    text-decoration: none;
+    display: block;
+    padding-right: 0;
+    padding-left: 0;
+    margin: 7em auto 1em;
+}
+
+.toplink {
+    text-align: right !important;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 3em;
+}
+.toplink a{
+    text-decoration: none;
+    color: #888
+}
+b{
+    color: #fab700;
+}
+h1{
+    margin-bottom: .5em;
+}
+hr {
+    border: 2px #05B993 solid;
+    margin: 2em auto;
+}
+#right{
+    padding: 2em 5em;
+}
+#skills{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+    margin: 20px 0;
+}
+#skills li{
+    background: #556270;
+    display: inline-block;
+    padding: .7em;
+    width: 95%;
+}
+#skills li a{
+    text-decoration: none;
+    color: #fff;
+}
+h3{
+    margin: 2em auto;
+}
+
+#icons li{
+    display: inline-block;
+    width: 15%;
+}
+#icons li a{
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0 5px 0 0;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 960px) {
+    main{
+        flex-direction: column;
+        height: auto;
+    }
+
+    #left{
+        width: 100%;
+    }
+    #mobile{
+        display: block;
+        margin: 4em auto 0;
+    }
+    #desktop{
+        display: none;
+    }
+    #left a{
+        margin-top: 1em;
+    }
+    .toplink {
+        text-align: center !important;
+        margin: 1em auto 3em;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    #right{
+        padding: 2em;
+    }
+    #photo{
+        height: 200px;
+    }
+    #icons{
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        gap: 10px;
+        margin: 20px 0;
+        justify-content: center;
+    }
+    
+    #icons li{
+        display: inline-block;
+        width: 15%;
+    }
+
+}
