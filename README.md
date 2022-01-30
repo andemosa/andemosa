@@ -1,16 +1,17 @@
-### Hello there 😎,
+<h1 align="center">Hi! It's Anderson</h1>
+<h3 align="center">A Software developer based in Port Harcourt, Nigeria.</h3>
 
-## I'm Anderson Osayerie 👋🏼
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=andemosa" alt="andemosa" /> </p>
 
-<br/>
+- 🔭 I’m currently building with [Dantown](https://dantownms.com/)
 
-- I'm a Web Developer based in Port-Harcourt, Nigeria.
+- 🌱 I’m currently learning **Typescript**
 
-![](https://komarev.com/ghpvc/?username=andemosa)
+- 📝 I write articles on [hackernoon](https://hackernoon.com/u/andemosa)
 
-## Currently;
+- 💬 Ask me about **React, NextJs**
 
-- Front-end Web Developer at [Dantown](https://dantownms.com/)
+<!-- - 📫 How to reach me **osayerieanderson@gmail.com** -->
 
 ### Connect with me:
 
@@ -28,3 +29,4 @@
 
 
 <br />
+
