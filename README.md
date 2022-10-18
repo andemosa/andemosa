@@ -37,7 +37,7 @@ I spend my free time watching football
 - [What does it mean to have a Bitcoin?](https://andemosa.hashnode.dev/what-does-it-mean-to-have-a-bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
-## What  :bar_chart:
+## Some Statistics :bar_chart:
 
 <details>
 <summary>View my activity on GitHub</summary>
