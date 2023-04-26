@@ -6,13 +6,17 @@
 
 ## About Me
 
-Hi! It's Anderson. I’m currently building with [Dantown](https://godantown.com). 
+I am an experienced Frontend Web Developer and JavaScript engineer with a proven track record of crafting and creating products for global companies. I have experience building with ReactJs, NextJs, ExpressJs, NodeJs, Firebase.
 
-I have been a front-end web developer for more than two years. I specialize in creating functional, and scalable web products.
+With over 3+ years of experience, I have led teams of frontend developers to build robust admin dashboards that provide comprehensive overviews of key data, reports, and KPIs for efficient day-to-day operations.
 
-I have experience building with ReactJs, NextJs, ExpressJs and NodeJs.
+Previously, I was with [Dantown](https://godantown.com/) where I successfully led a team in developing cutting-edge admin dashboards. I have also worked at [Hackernoon](https://hackernoon.com/) in the technology publishing industry, collaborating with a team of developers to maintain and enhance the company's web products.
 
-**I recommend looking through the pinned repositories which showcase some of my personal projects.**
+As a developer, I thrive on challenges and enjoy engaging with projects that push me beyond my comfort zone, as I believe continuous learning of new languages and development techniques is essential for success in any organization.
+
+If you are interested in connecting and discussing how I can contribute to your team as a Frontend Web Developer, please send me a message. I look forward to connecting with you.
+
+**I recommend looking through the pinned repositories which showcases some of my personal projects.**
 
 I spend my free time watching football
 
