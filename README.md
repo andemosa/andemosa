@@ -8,7 +8,7 @@
 
 I am an experienced Frontend Web Developer and JavaScript engineer with a proven track record of crafting and creating products for global companies. I have experience building with ReactJs, NextJs, ExpressJs, NodeJs, Firebase.
 
-With over 3+ years of experience, I have led teams of frontend developers to build robust admin dashboards that provide comprehensive overviews of key data, reports, and KPIs for efficient day-to-day operations.
+With over 4+ years of experience, I have led teams of frontend developers to build robust admin dashboards that provide comprehensive overviews of key data, reports, and KPIs for efficient day-to-day operations.
 
 Previously, I was with [Dantown](https://godantown.com/) where I successfully led a team in developing cutting-edge admin dashboards. I have also worked at [Hackernoon](https://hackernoon.com/) in the technology publishing industry, collaborating with a team of developers to maintain and enhance the company's web products.
 
@@ -28,15 +28,15 @@ I spend my free time watching football
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web.
 - [Typescript](https://www.typescriptlang.org/) - JavaScript with syntax for types.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ## Blog Posts :memo:
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Using Decorators in Typescript](https://hackernoon.com/using-decorators-in-typescript)
-- [Utility types in Typescript](https://hackernoon.com/utility-types-in-typescript-part-1-partial-required-readonly)
-- [Create Incredible Shapes Using the CSS Clip-path Property](https://hackernoon.com/create-incredible-shapes-using-the-css-clip-path-property)
+- [How to Build a Football Tracker with Twilio WhatsApp and Node.js](https://www.twilio.com/en-us/blog/football-tracker-twilio-whatsapp-node-js)
+- [Schema Validation with Zod](https://www.turing.com/blog/data-integrity-through-zod-validation)
 - [Building a Guessing Game with Python](https://dev.to/andemosa/building-a-guessing-game-with-python-g7m)
 - [What does it mean to have a Bitcoin?](https://andemosa.hashnode.dev/what-does-it-mean-to-have-a-bitcoin)
 <!-- BLOG-POST-LIST:END -->
